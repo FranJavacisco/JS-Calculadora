@@ -1,5 +1,5 @@
 
-![Captura de pantalla 2024-06-14 133648](https://github.com/FranJavacisco/JS-Calculadora/assets/134477809/744b3cfe-25b9-4377-81a6-1df0cc1ff3e4)
+![Captura de pantalla 2024-06-14 133648](https://github.com/FranJavacisco/JS-Calculadora/assets/134477809/92866a47-24ab-4ea3-94ea-18c7a59d3097)
 
 ### JS Calculadora
 
